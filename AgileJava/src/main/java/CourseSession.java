@@ -1,6 +1,6 @@
 
 public class CourseSession {
-	private String department;
+	private final String department;
 	private final String number;
 	
 	CourseSession(String department, String number){
