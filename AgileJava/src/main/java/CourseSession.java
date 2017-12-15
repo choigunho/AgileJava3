@@ -1,7 +1,7 @@
 
 public class CourseSession {
 	private String department;
-	private String number;
+	private final String number;
 	
 	CourseSession(String department, String number){
 		this.department = department;
