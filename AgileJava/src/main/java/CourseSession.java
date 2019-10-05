@@ -23,4 +23,4 @@ public class CourseSession {
 // gunho
 
 // master 1
-// issue2
+// new
